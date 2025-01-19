@@ -3,7 +3,7 @@
 Playable at :
 > https://svaret.freeboxos.fr/BouniMots/
 
-![Exemple](/assets/images/BouniMots.png)
+![Exemple](BouniMots.png)
 
 
 
