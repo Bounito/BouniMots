@@ -1,18 +1,20 @@
 # BouniMots
 
+Set of games from various lists of words... and images on the web (provided by Bing)
+
 Playable at :
 > https://svaret.freeboxos.fr/BouniMots/
 
-![Exemple](BouniMots.png)
+![BouniMots](BouniMots.png)
 
 
 
-Set of games from various lists of words... and images on the web (provided by Bing)
+## Image Bing URL guide
 
-Exemple avec :
+Bing URL :
 > https://th.bing.com/th?w=100&h=100&q=Thanks
 
-![Exemple](https://th.bing.com/th?w=100&h=100&q=Thanks)
+![BingLink](https://th.bing.com/th?w=100&h=100&q=Thanks)
 
 
 Liste des paramètres :
