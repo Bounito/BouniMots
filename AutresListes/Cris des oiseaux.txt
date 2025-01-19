@@ -1,0 +1,126 @@
+Agacer, agacher, agachier, agasser : pie
+Appeler : merle
+Babiller : canari, corneille, geai, grive, merle, moineau, oiseau, perroquet
+Bavarder : pie
+Boubouler : hibou
+Brailler : paon
+Braire : manchot, pingouin
+Brourir : perdrix
+Bubuler : hibou
+Butir : butor
+Cacaber : caille, perdrix, pintade
+Cacarder : canard, jars, oie
+Cageoler : geai
+Cagnarder : jars, oie
+Cagneter : poule
+Cajacter : geai
+Cajoler : geai, pie
+Cancaner : canard, volailles
+Canqueter : canard
+Caqueter : poule, volailles
+Caracouler : pigeon, ramier, tourterelle
+Carcailler : caille
+Causer : perroquet, pie
+Chanter : alouette, coq, fauvette, merle, oiseau, rossignol
+Chouler : chouette
+Chucheter : moineau
+Chuchoter : moineau
+Chuinter : chouette
+Claqueter : cigogne, poule avant la ponte, grue
+Cloquer : poule
+Clousser : poule
+Cocailler : poule
+Cocarder : geai
+Coclorer : poule
+Codéquer : poule
+Concouréger : palombe, pigeon
+Coqueliner : coq
+Coqueriquer : coq
+Corailler : corbeau
+Corbiner : corneille
+Couaquer : corbeau, poule
+Coucasser : poule
+Coucouanner : bécasse
+Coucouler : coucou
+Coucouer : coucou
+Courcailler : caille
+Crailler : corbeau, corneille
+Craquer : cigogne, corbeau, grue, perroquet
+Craqueter : cigogne, grue
+Crételer : poule après la ponte
+Criailler : corneille, faisan, hirondelle, jars, oie, paon, perdrix, perroquet, pintade
+Crier : œdicnème, oie
+Croailler : corbeau
+Croasser : corbeau
+Crouler : bécasse, bécassine
+Croûter : bécasse
+Dodeldirer : coq de bruyère
+Drenser : cygne
+Drensiter : cygne
+Flûter : merle
+Frigotter : pinson
+Friguloter : geai
+Fringoler : geai
+Fringoter : geai, pinson
+Frouer : hibou
+Gajoler : geai
+Garruler : geai
+Gazouiller : hirondelle, oiseau
+Gémir : colombe, tourterelle
+Glapir : aigle, épervier, faisan, grue
+Glatir : aigle
+Glottorer : cigogne
+Glouglouter : dindon
+Glousser : caille, dindon, gélinotte, oie, perdrix, poule
+Grailler : corbeau, corneille
+Gringotter : oiseau, rossignol, serin
+Grisoler : alouette
+Hioquer : chouette
+Hôler : chouette
+Huer : chouette, héron, hibou
+Hululer  : chouette, hibou
+Huir : faucon, milan
+Jaboter : manchot, oiseau, perruche, pigeon
+Jacasser : geai, perruche, pic, pie
+Jargonner : jars, oie
+Jaser : geai, merle, perroquet, pie
+Lamenter : chouette, cygne
+Margoter, margotter, margauder, margauter : caille
+Miauler : buse, épervier, hibou, orfraie
+Nasiller : canard
+Paonner : paon
+Parler : mainate, perroquet
+Pépier : moineau, oiseau, poussin
+Piailler : faisan, geai, moineau, oiseau, perroquet, poussin
+Pialer : épervier
+Piauler : albatros, buse, dindon, oiseau, pintade, poulet, poussin, vanneau
+Piauter : buse
+Picasser : pic vert
+Piper : épervier, oiseau
+Pirouitter : perdrix
+Pisoter : étourneau
+Pituiter : caille
+Pleupleuter : pic vert
+Pleurer : goéland
+Pupuler : huppe
+Puputer : huppe
+Quirritter : rossignol
+Railler : goéland
+Ramager : hirondelle, oiseau, pinson, serin
+Rappeler : perdrix
+Réclamer : faucon, perdrix
+Rossignoler : rossignol
+Roucouler : colombe, pigeon, ramier, tourterelle
+Siffler : courlis, cygne, loriot, merle, oie, perroquet, perruche, pinson
+Tirelirer : alouette
+Titiner : mésange
+Triduler : hirondelle
+Triller : alouette, rossignol, serin
+Trisser : hirondelle
+Trompeter : aigle, cygne, grue, oie
+Truffler : sarcelle
+Truisotter : hirondelle
+Tutuber : hibou
+Turluter : alouette, oiseau, Pipit des arbres, Pipit farlouse
+Ululer : chouette, hibou
+Zinzibuler : mésange, roitelet

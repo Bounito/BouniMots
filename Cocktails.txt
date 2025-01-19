@@ -1,0 +1,96 @@
+Tequila Sunrise	Tequila + Jus d'orange + Sirop de grenadine
+Mojito	Rhum + Citron vert + menthe + Eau gazeuse
+Margarita	Tequila + Cointreau + Jus de citron vert
+Blue lagoon	Vodka + Curaçao bleu + Jus de citron
+Piña Colada	Rhum + Crème de coco + Jus d'ananas
+Gin Fizz	Gin + Jus de citron + Eau gazeuse
+Gin Tonic	Gin + Tonic
+Bloody Mary	Vodka + Jus de citron + Jus de tomate
+Planter's Punch	Rhum + Jus d'ananas + Jus de citron + Sirop de grenadine
+Americano	Campari + Vermouth rouge + Eau gazeuse
+Maï-Taï	Rhum + Curaçao blanc + Sirop d'orgeat + Jus de citron vert
+Moscow mule	Vodka + Ginger beer + Jus de citron vert
+Sex on the Beach	Vodka + Liqueur de pêche + Jus de canneberge + Jus d'orange
+Espresso Martini	Vodka + Kahlua + Café + Sirop de sucre
+Spritz	Apérol + Prosecco + Eau gazeuse
+Sangria	Vin rouge + Cognac + Limonade + Fruits frais
+Rusty Nail	Scotch whisky + Drambuie
+Irish Coffee	Whisky + Café + Sirop de sucre + Crème fraîche
+Harvey Wallbanger	Vodka + Jus d'orange + liqueur Galliano
+Cuba Libre	Rhum + Cola + Citron vert
+Screwdriver	Vodka + Jus d'orange
+Kir	Crème de cassis + Vin blanc de Bourgogne
+Ti Punch	Rhum + Citron vert + Sucre
+Side car	Cognac + Cointreau + Jus de citron
+White lady	Gin + Cointreau + Jus de citron
+Dry Martini	Vodka + Vermouth blanc
+Black russian	Vodka + Kahlua
+Cosmopolitan	Vodka + Cointreau + Jus de citron + Jus de canneberge
+Tom Collins	Gin + Jus de citron + Eau gazeuse
+Negroni	Gin + Campari + vermouth rouge
+Singapore Sling	Gin + Cherry brandy + Cointreau + Bénédictine + Grenadine + Ananas + Citron
+Bronx	Gin + Vermouth blanc et rouge + Jus d'orange
+Dubonnet cocktail	Gin + Dubonnet rouge
+Orange Blossom	Gin + Jus d'orange
+Paradise	Gin + Apricot brandy + Jus d'orange
+Red Lion	Gin + Grand Marnier + Jus de citron + Jus d'orange
+Godmother	Vodka + Amaretto
+Godfather	Whisky + Amaretto
+Stinger	Cognac + Crème de menthe
+Bellini	Purée de pêche + Prosecco
+Alexander	Gin + Crème de cacao + Crème fraîche
+Banana Bliss	Cognac + liqueur de banane
+Porto Flip	Porto + Jaune d'oeuf + Sirop de sucre
+Manhattan	Rye whiskey + Vermouth rouge + Angostura bitter
+Whisky Sour	Whisky + Jus de citron + Sirop de sucre
+Daiquiri	Rhum + Sirop de sucre + Jus de citron vert
+Bacardi Cocktail	Rhum + Jus de citron vert + Sirop de grenadine
+Garibaldi	Campari + Jus d'orange
+Mint Julep	Whisky bourbon + Menthe fraîche + Sucre en poudre
+Pussyfoot	Jus d'orange + Jus de citron + Jaune d'oeuf + Sirop de grenadine
+Grasshopper	Crème de menthe + Crème de cacao + Crème fraîche
+B&B	Brandy (Cognac) + Bénédictine
+Jack Rose	Calvados + Jus de citron + Grenadine
+Caïpirinha	Cachaça + Citron vert + Sucre en poudre
+B52	Kahlua + Baileys + Cointreau
+Florida	Jus d'orange + Jus de citron + Jus d'ananas + Sirop de grenadine
+Angel Face	Gin + Apricot Brandy + Calvados
+Aviation	Gin + Jus de citron + Marasquin + Liqueur de violette
+Casino	Gin + Marasquin + Jus de citron + orange bitter
+Clover Club	Gin + Jus de citron + Grenadine + Blanc d'oeuf
+Mary Pickford	Rhum + Jus de pomme + Sirop de grenadine
+El Presidente	Rhum + Vermouth rouge + Curaçao blanc + Grenadine
+Monkey Gland	Gin + Absinthe + Jus d'orange + Grenadine
+Old Fashioned	Whisky Bourbon + Sucre + Angostura bitter
+Sazerac	Cognac + Absinthe + Sirop de sucre + Peychaud's bitter
+Tuxedo	Gin + Vermouth blanc + Marasquin + Absinthe + Orange bitter
+French Connection	Cognac + Amaretto
+Golden Dream	Cointreau + Liqueur Galliano + Jus d'orange + Crème fraîche
+French 75	Gin + Jus de citron + Sirop de sucre + champagne
+Hemingway Special	Rhum + Jus de citron vert + Marasquin + Jus de pamplemousse
+Horse's Neck	Bourbon + Ginger ale + Angostura bitter
+Mimosa	Champagne + Jus d'orange
+Sea Breeze	Vodka + jus de cranberry + Jus de pamplemousse
+Bramble	Gin + Jus de citron + Sirop de sucre + Crème de mûre
+Dark and Stormy	Rhum ambré + Ginger beer
+Dirty Martini	Gin ou vodka + Vermouth dry + Saumure d'olive
+French Martini	Vodka + Liqueur de framboise + Jus d'ananas
+Lemon Drop Martini	Vodka + Cointreau + Jus de citron + Sirop de sucre
+Pisco Sour	Pisco + jus de citron + Sirop de sucre + Blanc d'oeuf + Angostura bitter
+Tommy's Margarita	Tequila + Jus de citron vert + Sirop d'agave
+Vesper	Gin + Vodka + Lillet
+Egg Nogg	Cognac + Rhum brun + Lait + Oeuf
+Blue Blazer	Whisky écossais + Eau chaude + Sucre
+Suffering Bastard	Gin + Cognac + Lime juice + Ginger beer + Angostura bitter
+Vin Chaud	Vin rouge + Sirop de sucre + Cannelle
+Zombie	Rhum + Liqueur d'abricot + Jus de citron + Jus d'ananas + Grenadine
+Barracuda	Rhum + Jus de citron vert + Jus d'ananas + Liqueur Galliano + Prosecco
+Fernandito	Fernet-Branca + Coca Cola
+Boulevardier	Bourbon + Campari + Vermouth rouge
+Gimlet	Gin + Lime cordial
+Russian Spring Punch	Vodka + Jus de citron + Sirop de sucre + Crème de cassis + Champagne
+Champagne cocktail	Cognac + Champagne + Angostura Bitter
+Between the Sheets	Rhum + Cointreau + Cognac + Jus de citron
+Paper Plane	Bourbon + Amaro + Jus de citron + Apérol
+Last Word	Gin + Chartreuse verte + Marasquin + Jus de citron vert
+Corpse Reviver n°2	Gin + Cointreau + Lillet + Jus de citron + Absinthe

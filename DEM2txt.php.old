@@ -1,0 +1,46 @@
+<?php
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
+// Chemin du fichier d'origine
+$cheminFichierOrigine = 'DEM-1_1.csv';
+
+// Chemin du fichier de destination
+$cheminFichierDestination = 'DEM-1_1.txt';
+
+// Lire le contenu du fichier d'origine
+$contenuOrigine = file_get_contents($cheminFichierOrigine);
+
+// Séparer le contenu par lignes
+$lignes = explode("\n", $contenuOrigine);
+
+// Ouvrir le fichier de destination en mode écriture
+$fichierDestination = fopen($cheminFichierDestination, 'w');
+
+// Vérifier si l'ouverture du fichier de destination a réussi
+if ($fichierDestination === false) {
+    die('Erreur lors de l\'ouverture du fichier de destination.');
+}
+
+$temp_mot = "toto";
+// Parcourir chaque ligne
+foreach ($lignes as $ligne) {
+    // Extraire le premier mot jusqu'à la première tabulation
+    $premierMot = strtok($ligne, "\t");
+	if ($temp_mot != $premierMot)
+	{
+		echo "<BR>".$premierMot;
+		// Écrire le premier mot dans le fichier de destination suivi d'un saut de ligne
+		// Vérifier si l'écriture dans le fichier a échoué
+		if (fwrite($fichierDestination, $premierMot . "\n") === false) {
+			die('Erreur lors de l\'écriture dans le fichier de destination.');
+		}
+	}
+	$temp_mot = $premierMot;
+}
+
+// Fermer le fichier de destination
+fclose($fichierDestination);
+
+echo "Opération terminée.";
+
+?>

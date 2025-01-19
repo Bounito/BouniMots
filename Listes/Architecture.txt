@@ -1,0 +1,826 @@
+Abaque
+Abat-son
+Abbaye
+Abergement
+About
+Abside
+Acropole
+Acrotère
+Adobe
+Adoucissement
+Adyton
+Agglo
+Agrafe
+Aile
+Aileron
+Aisselier
+Ajouré
+Alette
+Allège
+Ambon
+Amortissement
+Ancelle
+Ancre
+Annelet
+Anta
+Antéfixe
+Apothème
+Appareil
+Appareil en arête-de-poisson
+Appareil isodome
+Appentis
+Appui de fenêtre
+Aqueduc
+Arabesque
+Arase
+Arbalétrier
+Arc
+Arc de décharge
+Arc formeret
+Arcade
+Arcature
+Arcature lombarde
+Arc-boutant
+Arc diaphragme
+Arc-doubleau
+Arc lancéolé
+Arceau
+Arche
+Archère
+Architecte
+Architecture d'intérieur
+Architrave
+Archivolte
+Arêtier
+Armature de béton
+Armille
+Arrière-corps
+Arrondi de dalle
+Artichaut
+Ascenseur
+Assise
+Asselet
+Astragale
+Atalburu
+Atlante
+Atrium
+Atticurge
+Attique
+Aubette
+Autel
+Auvent
+Avancée
+Avant-corps
+Avant-toit
+Azulejos
+Bac acier
+Bahut
+Baie
+Baie aveugle
+Balcon
+Balcon filant
+Balconnet
+Baldaquin
+Balteus
+Balustrade
+Balustre
+Banche
+Bande de solin
+Bande lombarde
+Bandeau
+Bandeau de pont
+Banquette
+Baptistère
+Bardage
+Bardeau
+Barrière d'octroi
+Bas-côté
+Base
+Basilique religieuse.
+Basilique civile
+Bas-relief
+Bastion
+Batardeau
+Bâtière
+Battant
+Bauge
+Bec
+Bêche
+Beffroi
+Belvédère
+Besant
+Béton
+Béton armé
+Béton précontraint
+Bifora
+Billettes
+Bloc de béton
+Blocage
+Blochet
+Boisseau
+Borie
+Bossage
+Boulin
+Boute-roue
+Bow-window
+Bracon
+Brique
+Brise-lames
+Brise-soleil
+Brisis
+Bucrane
+Bulbe
+Bulbe de compression
+Bureau à cloisons
+Bureaux-immeuble
+Buton
+Cabane en pierre sèche
+Cabochon
+Cache-moineaux
+Cadran solaire
+Caisson de plafond
+Calage
+Calage de pierre sèche
+Calotte
+Campanile
+Campenard
+Candélabre
+Cariatide
+Cartouche
+Casquette
+Castel
+Cathédrale
+Cave
+Caveau
+Cavet
+Cellier
+Cénotaphe
+Chai
+Chaînage
+Chaîne
+Chaîne d'angle
+Chaîne horizontale
+Chaîne verticale
+Chaire
+Chambranle
+Chancel
+Chanfrein
+Chanlatte
+Chape
+Chapeau de gendarme
+Chapelle axiale
+Chaperon
+Chapiteau
+Charpente
+Charpente Philibert de L'Orme
+Chartreuse
+Chasse-roue
+Château
+Château fort
+Chaume
+Cheminée
+Cheminée sarrasine
+Chéneau
+Chevalement
+Chevet
+Chevêtre
+Chevron
+Chien-assis
+Chœur
+Ciborium
+Cimaise
+Ciment
+Cimetière
+Cintre
+Cintres de théâtre
+Circulation
+Circulade
+Cisaillement
+Claustra
+Claveau
+Clède
+Clef d'arc
+Clef de voûte
+Clef pendante
+Clocher
+Clocher à flèche de charpente.
+Cloison
+Cloître
+Coiffe
+Clôture
+Collatéral
+Colombage
+Colonne
+Comble
+Comble à la Mansart
+Comble à surcroît
+Communs
+Compression
+Confessionnal
+Congé
+Console
+Contrecœur
+Contrefiche
+Contrefort
+Contre-fruit
+Contrescarpe
+Contrevent
+Contreventement
+Corbeau
+Corbeille
+Corbelet
+Cordon
+Corniche
+Corps d'état
+Corps de bâtiment
+Corps de logis
+Corps de moulure
+Corridor
+Costière
+Couloir
+Coupole
+Cour anglaise
+Couronnement
+Coursière
+Courtine
+Coussiège
+Coussinet
+Couvertine
+Couverture
+Coyau
+Coyer
+Crampon
+Crapaudine
+Crépine
+Crémone
+Créneau
+Crépine
+Crochet
+Crosse
+Croisée
+Croisée d'ogives
+Croisée du transept
+Croisillon
+Croupe
+Crypte
+Cryptoportique
+Cueillie
+Encoignure
+Cul-de-four
+Cul-de-lampe
+Culée
+Culot
+Cupule
+Dais
+Dalle
+Déambulatoire
+Décrottoir
+Demi-ferme
+Denticule
+Devanture
+Dépendance
+Descente des charges
+Dessus-de-porte
+Distribution
+Dôme
+Donjon
+Dormant
+Dosseret
+Double fenêtre
+Double vitrage
+Doublis
+Douche
+Doucine
+Douelle
+Duplitecture
+Draperie
+Ébrasement
+Échandole
+Échantignole
+Écoinçon
+Écusson
+Édicule
+Égout de toit
+Égout retroussé
+Égout sanitaire
+Embasement
+Emban
+Embrasure
+Embrèvement
+Empanon
+Encoignure
+Encorbellement
+Enfeu
+Enduit
+Enfilade
+Engagement
+Enrayure
+Entablement
+Entrait
+Entrait retroussé
+Épannelage
+Épi de faîtage
+Épigraphe
+Entresol
+Entrevous
+Escalier
+Escarpe
+Estantat
+Étage
+Étage carré
+Étage noble
+Étage technique
+Étançon
+Étrésillon
+Exèdre
+Extrados
+Ezkaratze
+Fabrique de jardin
+Façade
+Façade principale
+Façade arrière
+Façade latérale
+Façade légère
+Faîtage
+Faîte
+Fausse voûte
+Faux appareil
+Faux entrait
+Faux pureau
+Faux plafond
+Faux plancher
+Fenestron
+Fenêtrage
+Fenêtre
+Fenton
+Ferraillage
+Ferme
+Ferme en treillis
+Fermeret
+Fermette
+Ferronnerie
+Feston
+Filet
+Flamande
+Flambement
+Flanquement
+Flèche
+Fléchissement
+Fleuron
+Flots grecs
+Fluage
+Folie
+Folie
+Fondations
+Fonts baptismaux
+Forme de pente
+Formeret
+Forteresse
+Fosse septique
+Fouille
+Frise
+Frontage
+Frontispice
+Fronton
+Fruit
+Fusarolle
+Fuste
+Fût
+Gable
+Gaine
+Galerie
+Gambardière
+Garde-corps
+Gargouille
+Gavit
+Géminé
+Génoise
+Géode
+Glacis
+Gloriette
+Guétali
+Gnomon
+Godron
+Gousset
+Gouttes
+Gouttière
+Gradin
+Granito
+Gratte-ciel
+Grecque
+Griffe
+Gros œuvre
+Grotesque
+Guéoir
+Guichet
+Guillochis
+Guirlande
+Hagioscope
+Ha-ha
+Halle
+Happe
+Harpe
+Haut-relief
+Héberge
+Hérisson
+Herse
+Homme vert
+Horloge
+Hors-d'air
+Hors-d'eau
+Hors d'œuvre
+Hors-gel
+Hourd
+Hourdage
+Hourdis
+Huisserie
+Hypocauste
+Hypostyle
+Imposte
+Infrastructure
+Intrados
+Isodomon
+Iwan
+Jacquemart
+Jalousies
+Jambage
+Jambe
+Jambette
+Jarret
+Joint
+Jouée
+Jour
+Jour de souffrance
+Jubé
+Judas
+Kiosque
+Lambourde
+Lambourde de parquet
+Lambourde de plancher
+Lambrequin
+Lambris
+Lancette
+Landier
+Lanterne
+Larmes
+Larmier
+Latrines suspendues
+Latte
+Lésène
+Liant
+Lice
+Lien
+Lierne
+Lignolet
+Limon
+Linçoir
+Linteau
+Listel
+Liteau
+Lobe
+Loggia
+Lotus
+Long-pan
+Longrine
+Lucarne
+Lunette
+Mâchicoulis
+Maçonnerie à joints vifs
+Maçonnerie sèche
+Madrier
+Maison forte
+Mandapa
+Mandorle
+Mansarde
+Manteau de cheminée
+Marche
+Marquise
+Mascaron
+Massif
+Massif antérieur
+Médaillon
+Mégaron
+Membre
+Membrure
+Meneau
+Merlon
+Métatome
+Métope
+Meulière
+Meurtrière
+Mezzanine
+Mirador
+Miséricorde
+Modénature
+Modillon
+Module
+Moellon
+Moise
+Monastère
+Montoir
+Mortier
+Moucharabieh
+Mouluration
+Moulure
+Mur
+Mur anti-bruit
+Mur-boutant
+Mur cyclopéen
+Mur dosseret
+Mur de soutènement
+Mur gouttereau
+Mur pignon
+Mur porteur
+Mur de refend
+Mur renard
+Mur-rideau
+Mur Trombe
+Mur végétalisé
+Muret
+Mutule
+Nacelle
+Narthex
+Nef
+Nervure de croisée d'ogives
+Nervure de voûte
+Niche
+Niveau
+Noue
+Nu du mur
+Oculus
+Ogive
+Opus
+Opus africanum
+Opus craticium
+Opus incertum
+Opus mixtum
+Opus piscatum
+Opus quadratum
+Opus spicatum
+Opus testaceum
+Ordre architectural
+Ordre colossal
+Ordre composite
+Ordre corinthien
+Ordre dorique
+Ordre ionique
+Ordre toscan
+Oriel
+Bow-window
+Ossature
+Ossuaire
+Oubliette
+Ouvrage à cornes
+Ouvrage d'art
+Ouvrant
+Ove
+Paillasse
+Palée
+Palier
+Palladienne
+Palmette
+Pan de béton
+Pan de bois
+Pan de fer
+Panne
+Panne faîtière
+Panne sablière
+Parement
+Parpaing
+Parquet
+Parvis
+Passage
+Passage berrichon
+Passage cocher
+Passerelle
+Patère
+Patio
+Pavillon
+Pendentif
+Péribole
+Périptère
+Péristyle
+Perron
+Persienne
+Pièce
+Pied
+Pied d'éléphant
+Piédestal
+Piédroit
+Pierre armée
+Pierre de taille
+Pierres sèches
+Pignon
+Pilastre
+Pile
+Pilier
+Pilier butant
+Pilier soissonnais
+Pilotis
+Pinacle
+Pisé
+Plafond
+Plafond cathédrale.
+Plan basilical
+Plan bénédictin
+Plan centré d'église
+Plancher
+Plancher chauffant solaire
+Plancher poutrelles-hourdis
+Plate-bande
+Plein de travée
+Plinthe
+Plot
+Podium
+Poinçon
+Poinçonnement
+Pointe-de-diamant
+Poivrière
+Pont-voûte
+Porche
+Portail
+Porte
+Porte cochère
+Portée
+Porte-fenêtre
+Portique
+Postes
+Potager
+Potale
+Poteau
+Potence
+Poterne
+Poutraison
+Poutre
+Poutrelle
+Prélinteau
+Presbytérium
+Propylée
+Prothyrum
+Protomé
+Puits à eau
+Puits provençal
+Pureau
+Putto
+Pyramide
+Pyramidion
+Quadratura
+Quadrifore
+Quadrilobe
+Quatre-feuilles
+Queue de vache
+Quinconce
+Racheter
+Radier général
+Rais de cœur
+Rampant
+Redent
+Redents
+Refend de maçonnerie
+Refend porteur
+Regingot
+Règles de l'art
+Régner
+Remise
+Remplage
+Renfoncement
+Renvoi d'eau
+Repos
+Ressaut
+Restanque
+Retombée de poutre
+Retrait
+Rinceau
+Risberme
+Rive de toiture
+Rocaille
+Rond-point
+Rosace
+Rotonde
+Sablière
+Salestre
+Salle blanche
+Salle d'eau
+Scotie
+Second œuvre
+Semelle
+Serlienne
+Seuil de porte
+Sgraffite
+Shed
+Soffite
+Solin
+Solive
+Solive bâtarde
+Sommier
+Soubassement
+Soupirail
+Sous-face
+Sous-sol
+Staff
+Stalles
+Stéréobate
+Stoa
+Striction
+Structure porteuse
+Stuc
+Style bugnato
+Style grec ancien.
+Stylobate
+Superstructure
+Table
+Table coffrante
+Table saillante
+Tableau
+Tabula ansata
+Tailloir
+Talon
+Talon renversé
+Tambour
+Taque
+Tas de charge
+Tasseau
+Tavaillon
+Télamon
+Terrasse
+Terrasson
+Terre crue
+Terre cuite
+Tétramorphe
+Tétrastyle
+Tholus
+Tierceron
+Tiers-point
+Tirant
+Toilettes
+Toit
+Toiture végétalisée
+Toit-terrasse
+Tombeau
+Torchis
+Tortillis
+Tour militaire
+Tour
+Tour-lanterne
+Tournisse
+Traction
+Transept
+Travée
+Traverse d'imposte
+Tréhory
+Treillis soudé
+Trémie
+Tribune
+Triclinium
+Triforium
+Triglyphe
+Trilobe
+Trochyle
+Trompe
+trompe d'angle
+trompe sous le coin
+Tropaion
+Tropézienne
+Trou de boulin
+Trumeau
+Tuile
+Tuyé
+Tympan
+Urinoir
+Vagues
+Vaisseau
+Vantail
+Vasistas
+Véranda
+Vermiculure
+Vernaculaire
+Verrière
+Vertevelle
+Vestibule
+Vide sanitaire
+Vitrage à isolation renforcée
+Vitre
+Vitrière
+Voile
+Volée
+Volet
+Volige
+Volute
+Vomitoire
+Voussoir
+Voussure
+Voûtain
+Voûte
+Voûte d'arêtes
+Voûte d'ogive
+Voûte en berceau
+Voûte nubienne
+Voûte sarrasine
+Voûte sphérique
+Westwerk
+Xyste
+Yton
+Zellige
+Zinzolin
+Zoophore
+Zothèque

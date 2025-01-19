@@ -1,0 +1,110 @@
+Absinthe # Anis
+Aguardiente # Canne à sucre
+Amaretto # Amandes ou noyaux d'abricot
+Amaro # Herbes et épices
+Anisette # Anis
+Aperol # Herbes, épices, et écorces d'orange
+Aquavit # Céréales Ou Pommes De Terre
+Arak # Raisins ou dattes, et anis
+Armagnac # Raisins
+Arrack # Canne à sucre ou sève de cocotier
+Baijiu # Sorgho
+Baileys # Crème
+Becherovka # Herbes et épices
+Benedictine # Herbes, épices, et miel
+Bière # Malt Orge Houblon
+Bourbon # Maïs (au moins 51%)
+Brandy # Raisins
+Brennivín # Pommes de terre, aromatisé avec du carvi
+Byrrh # Vin fortifié et quinquina
+Cachaça # Canne À Sucre
+Calvados # Pomme
+Campari # Herbes, épices, et écorces d'orange
+Chartreuse # Herbes, épices, et fleurs
+Chouchen Ou Hydromel # Miel
+Cidre # Pommes
+Cognac # Raisins
+Cointreau # Écorces d'orange
+Crème de menthe # Menthe
+Curaçao # Écorces d'orange
+Cynar # Artichauts et herbes
+Drambuie # Whisky, miel, herbes
+Dubonnet # Vin fortifié, quinine
+Eau-de-vie # Fruits divers (prunes, poires, pommes)
+Feni # Noix de cajou ou noix de coco
+Fernet # Herbes et épices
+Frangelico # Noisettes
+Frênette # Feuilles De Frêne
+Galliano # Herbes, épices, vanille
+Genever # Baies de genièvre et grains
+Gin # Baies de genièvre
+Glayva # Whisky, miel, tangerines, herbes
+Grand Marnier # Écorces d'orange et cognac
+Grappa # Marc de raisin (les restes après pressage du jus)
+Irish Mist # Whisky, miel, herbes
+Jägermeister # Herbes et épices
+Kahlúa # Café et rhum
+Kirsch # Cerises
+Korn # Grains (seigle, blé)
+Kriek # Cerises
+Kummel # Carvi, cumin, fenouil
+Lillet # Vin fortifié, fruits, et herbes
+Limoncello # Citrons
+Liqueur de banane # Bananes
+Liqueur de cannelle # Cannelle
+Liqueur de cassis # Cassis
+Liqueur de cerise # Cerises
+Liqueur de coco # Noix de coco
+Liqueur de fraise # Fraises
+Liqueur de framboise # Framboises
+Liqueur de melon # Melon
+Liqueur de myrtille # Myrtilles
+Liqueur de poire # Poires
+Liqueur de pêche # Pêches
+Liqueur de rose # Roses
+Liqueur de vanille # Vanille
+Liqueur de violette # Violettes
+Maraschino # Cerises
+Marasquin # Cerises
+Marie Brizard  # Anis
+Mastika # Raisins ou grains
+Metaxa # Raisins, épices, et herbes
+Mezcal # Agave
+Mirto # Myrtes
+Ouzo # Anis
+Pacific  # Anis
+Palinka # Fruits (prunes, poires, pommes, abricots)
+Parfait Amour # Fleurs et écorces d'orange
+Pastis # Anis étoilé et réglisse
+Patxaran # Prunelles et anis
+Pernod # Anis et réglisse
+Pimm's # Gin, herbes, et fruits
+Pisco # Raisins (spécifiquement Muscat)
+Poiré # Poires
+Pontarlier  # Anis
+Porto # Raisins (Touriga Nacional et autres variétés portugaises)
+Raki # Raisins et anis
+Rakija # Fruits divers (raisins, prunes, abricots, pommes)
+Rakı # Raisins ou figues, et anis
+Rhum # Canne À Sucre
+Saké # Riz
+Sambuca # Anis étoilé et réglisse
+Schnapps # Fruits (pommes, poires, pêches, etc.)
+Scotch Whisky # Orge maltée
+Sherry # Raisins
+Slivovitz # Prunes
+Soju # Riz, orge, patate douce, ou tapioca
+Strega # Herbes, épices, et safran
+Suze # Gentiane
+Tequila # Agave bleu
+Tia Maria # Café et rhum
+Triple sec # Écorces d'orange
+Tsipouro # Marc de raisin
+Tuaca # Vanille, agrumes, et épices
+Tuica # Prunes
+Unicum # Herbes et épices
+Vermouth # Vin (fortifié et aromatisé avec des herbes)
+Vin # Moût De Raisin
+Vodka # Betterave, Pomme De Terre
+Whisky # Céréales (Seigle, Froment, Orge, Maïs)
+Zwack # Herbes et épices

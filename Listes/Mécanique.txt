@@ -1,0 +1,441 @@
+Accélération
+Accouplement
+Acoustique
+Actionneur
+Adent
+Adhérence
+Adhérisation
+Adhésion
+Allongement à la rupture
+Amortissement
+Angle
+Anneau
+Anneau élastique
+Anodisation
+Alésage
+Allongement à la rupture
+Appui
+Âme
+Arbre à cames
+Arbre de transmission
+Armature
+Assemblage
+Atelier de réparation automobile
+Attitude
+Avaloir
+Axe
+Bague
+Baïonnette
+Balancier
+Ballast
+Balourd
+Bandage
+Barre
+Barreau
+Barre de torsion
+Bâti
+Bielle
+Biellette
+Boite de vitesses
+Boîtard
+Boudin
+Boulon
+Bonde
+Bracelet
+Bricolage
+Bride
+Brimbale
+Broche
+Butée
+Câble
+Câblot
+Cadre
+Caisson
+Cale
+Calepinage
+Cambouis
+Came
+Cannelure
+Carcan
+Cavalier
+Cardan
+Carter
+Célérité
+Cellule à enclumes de diamant
+Centrage
+Centre de gravité
+Centre de poussée
+Centre d'inertie ou centre de masse
+Cercle de Mohr
+Chaîne
+Chant
+Chanfrein
+Chape
+Chapeau
+Charnière
+Châssis
+Chaudron
+Chenille
+Chenillard
+Choc
+Cinématique
+Cintrage
+Circlip
+Cisaillement
+Clame
+Clapet anti-retour
+Clavetage
+Clavette
+Clé dynamométrique
+Clip
+Clinchage
+Cliquet
+Clivage
+Coefficient d'épreuve
+Coefficient de Poisson
+Coefficient de sécurité
+Coefficients de Lamé
+Coin
+Collage
+Collecteur d'admission
+Collet
+Collier
+Colonnette
+Complaisance
+Compression
+Conditions aux limites
+Conduit
+Congé
+Construction mécanique
+Contrainte
+Coque
+Cornière
+Corps rigide
+Corrosion
+Cosse
+Coulisseau
+Coup de la panne
+Couple
+Couple
+Couronne
+Courbe de Wöhler
+Courroie
+Course
+Coussinet
+Crabot
+Crampage ou Clampage
+Crapaud
+Crapaudine
+Crémaillère
+Crochet
+culasse
+Décollement
+Découpage
+Déformation
+Densité spectrale de puissance
+Déplacement
+Détrompage
+Déversement
+Diamant
+Différentiel
+Dilatation thermique
+Disque
+Douille
+Drageoir
+Ductilité
+Dureté
+Durit
+Duromètre Shore
+Dynamique et équation fondamentale de la dynamique
+Dynamomètre
+Échelle de Shore
+Écrou
+Éclisse
+Écrouissage
+Effet Venturi
+Élingue
+Embase
+Emboîtage élastique
+Emboutissage
+Embrayage
+Embrèvement
+Émerillon
+Empattement
+Endommagement
+Encastrement
+Énergie cinétique
+Énergie de déformation
+Énergie potentielle
+Engrenage
+Entretoise
+Épaulement
+Équerre
+Équilibrage
+Équipement
+Équipement de protection individuelle
+Ergot
+Essai mécanique
+Essai de traction
+Essieu
+Essuie-tout
+Estampage
+État de surface
+Étrier
+Eurêka
+Évent
+Extensométrie
+Extrusion
+Fatigue
+Flasque
+Ferrure
+Fibre
+Fibre de verre
+Filet
+Flèche
+Flexion
+Flambement
+Fluage
+Fonderie
+Force
+Force de Coriolis
+Forgeage
+Fragilité
+Fraise dentaire
+Frein
+Fréquence propre
+Frettage
+Frittage
+Frottement
+Fusée
+Galet
+Galvanisation
+Garage
+Gauchissement
+Graudron
+Glissement
+Glissière
+Glissement
+Gorge
+Goujon
+Goulotte
+Goupille
+Gousset
+Gouttière
+Gradient de vitesse
+Grain
+Graisse
+Grenaillage
+Griffon
+Grignotage
+Hauban
+Huile
+Hydrostatique
+Impulsion
+Inertie de flexion
+Inertie de torsion
+IPN
+Insert
+Jante
+Jauge de déformation
+Jeu
+Joint
+Joint d'étanchéité
+Joint de transmission
+Jou
+Lamage
+Lame
+Laminage
+Latte
+Lest
+Levage
+Levier
+Lice
+Limite d'élasticité
+Limite à rupture
+Liste d'outils
+Loi de Hooke
+Loi de Newton
+Longeron
+Lubrification
+Machine
+Machine simple
+Manchon
+Maneton
+Manille
+Manivelle
+Maquette
+Marteau
+Masse
+Masse effective
+Mât
+Matage
+Matrice
+Matriçage
+MCI
+Mécanicien
+Mécanique
+Mécanisme
+Membrane
+Membrure
+Méplat
+Meule
+Mise en plan
+Module de Young
+Module d'élasticité
+Moment
+Moment d'inertie
+Moment quadratique
+Mors
+Moteur
+Moufle
+Moulage
+Mousqueton
+Moyeu
+Nervure
+Notion de module
+Joint d'Oldham
+Oreille
+Outil
+Palan
+Palée
+Palier
+Palonnier
+Plan incliné
+Panneau
+Pantographe
+Pas
+Passivation
+Patin
+Pelage
+Perçage
+Pièce mécanique
+Pied à coulisse
+Pion de centrage
+Pion de cisaillement
+Pignon
+Piston
+Plaque
+Plaquette
+Plasticité
+Platine
+Plastron
+Platelage
+Pliage
+Polissage
+Pompe
+Porte-à-faux
+Portée
+Portance
+Portique
+Poulie
+Poussée d'Archimède
+Poutre 
+Presse hydraulique
+Pression
+Prétension
+Principe de Saint-Venant
+Profilé
+Quantité de mouvement
+Raideur
+Raidisseur
+Rail
+Réaction
+Rechargement
+Rectification
+Redent
+Réducteur mécanique
+Relaxation de contrainte
+Renvoi
+Résilience
+Résistance à la rupture
+Résistance des matériaux
+Résonance
+Ressort
+Retrait plastique
+Rhéologie
+Rhéomètre
+Ridelle
+Ridoir
+Rigide
+Rivet
+Rondelle
+Rondelle ressort ou Rondelle Belleville
+Rondelle ressort ou Rotative
+Rotule
+Rupture
+Sablage
+Sabot
+Sangle
+Sauterelle de bridage
+Segment
+Semelle
+Serre-câble
+Serre-joint
+Shoopage
+Silent bloc
+Similitude
+Soie
+Soudure
+Soufflet
+Soupape
+Souplesse
+Statique
+Stérigme
+Striction
+Structure
+Support
+Suspension
+Tambour
+Taquet
+Taraudage
+Taux de cisaillement
+Taux de rotation
+Ténacité
+Tendeur
+Tenseur d'inertie
+Tige
+Timon
+Tirant
+Tire fort
+Tolérances
+Toron
+Torseur cinématique
+Torseur statique
+Torsion
+Tourillon
+Tournevis
+Traction
+Train épicycloïdal
+Trainée
+Traitement de surface
+Traitement thermique
+Traverse
+Treillis
+Treuil
+Triangulation
+Tribologie
+Trou oblong
+Trusquinage
+Tube
+Turbocompresseur
+Usinage
+Usure
+Vanne
+Vérin
+Verrouillage
+Vessie
+Vibration
+Vilebrequin
+Virole
+Vis
+Vis de fixation
+Viscance
+Viscoanalyseur
+Viscosimètre
+Viscosité
+Vitesse
+Vitesse angulaire
+Voie
+Voile
+Voilement
+Volant d'inertie

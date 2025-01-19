@@ -1,0 +1,465 @@
+/* styles.css */
+body {
+    font-family: Arial;
+    background-color: #E1E1EC;
+}
+
+.menuDiv {
+    width: 100%;
+    position: absolute;
+}
+
+.centered-div {
+    text-align: center;
+    padding: 0px;
+}
+
+.MonButton {
+    background-color: #007AFF;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.MonDivBouton {
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    min-height: 40px;
+    min-width: 100px;
+    margin: 5px;
+    padding: 0px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #FFFFFF;
+    height:50px;
+    display: table;
+    width: 90%;
+}
+.MonDivBouton span {
+    vertical-align:middle;
+    display: table-cell;
+}
+
+.correct-grayscale {
+    filter: blur(10px);
+}
+.correct-border {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+    -webkit-transition: -webkit-transform 1s ease-in-out;
+    transition: transform 1s ease-in-out;
+    border: 3px solid green;
+}
+.styleImage {
+  max-height: 250px;
+  width: auto;
+  max-width: 100%;
+  transition: opacity 3s ease; /* Ajoute une transition pour une animation douce */
+}
+
+
+
+.mot-bouton {
+    padding: px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+
+
+.MonLien {
+        background-color: MidnightBlue;
+        border: none;
+        color: white;
+        padding: 8px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        margin: 5px;
+        cursor: pointer;
+        border-radius: 30px;
+        min-height: 30px;
+        line-height: 30px; /* Centrer verticalement le texte */
+      }
+
+.score-zone {
+        position: fixed;
+        top: 5px;
+        right: 5px;
+        background-color: White;
+        padding: 10px;
+        border-radius: 20px;
+        border: 2px solid red;
+    }
+    
+.divScore {
+    position: fixed;
+    display: flex; /* Utilisation de flexbox */
+    justify-content: center; /* Centrage horizontal */
+    align-items: center; /* Centrage vertical */
+    top: 5px;
+    right: 5px;
+    height: 40px;
+    min-width: 40px;
+    background-color: White;
+    padding: 0px 0px 0px 0px;
+    border-radius: 20px;
+    border: 2px solid Yellow; 
+}
+
+
+.divBtnBack {
+        position: fixed;
+        top: 5px;
+        left: 5px;
+        height: 50px;
+        padding: 0px 0px 0px 0px;
+        border-radius: 20px;
+    }
+.divBtnBack IMG {
+        vertical-align:middle;
+        display: table-cell;
+        cursor: pointer;
+    }
+/*=====================================================================*/
+/*=====================================================================*/
+
+.divCarousselContainer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 100%;
+}
+.divCarousselimageContainer {
+    position: relative; /*  Permet d'utiliser position: absolute; pour l'élément texte */
+    padding: 2px;
+    cursor: pointer;
+}
+
+.divCarousseltextOverlay {
+    position: absolute; /* Positionnement absolu par rapport au conteneur parent */
+    top: 1%; /* Décalage de 50% par rapport au haut du conteneur parent */
+    left: 1%; /* Décalage de 50% par rapport à la gauche du conteneur parent */
+    color: white; /* Couleur du texte */
+    background-color: rgba(0, 0, 0, 0.5); /* Fond semi-transparent */
+    font-size:x-small;
+
+}
+/*=====================================================================*/
+/*=====================================================================*/
+
+/* =============================== Double Texte */
+    .containerDoubleText {
+        position: relative;
+      }
+      
+      .bottom-text {
+        position: relative;
+        font-size: 20px;
+        z-index: 1; /* Indique que le texte est en-dessous */
+      }
+      
+      .top-text {
+        position: absolute;
+        /*font-size: 14px;
+        font-weight: bold;*/
+        color: Black;
+        bottom: 25%;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 2; /* Indique que le texte est au-dessus */
+      }
+
+
+/* =============================== FinalScore */
+.divFinalScore {
+        display: none;
+        position: fixed;
+        top: 2%;
+        left: 50%;
+        transform: translate(-50%, 0%);
+        background-color: #ffffff; /* Couleur de fond */
+        padding: 2px; /* Espacement intérieur */
+        border: 2px solid #000000; /* Bordure */
+        border-radius: 10px; /* Coins arrondis */
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Ombre */
+        z-index: 9000; /* Pour s'assurer que la div est au-dessus de tout le reste */
+    }
+    
+/*=======================================*/
+    .star {
+        position: absolute;
+        font-size: 24px; /* Taille de police de l'étoile */
+        z-index: 8000;
+
+    }
+    
+/*=======================================*/
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap; /*retour à la ligne si trop large */
+        justify-content: space-evenly;
+        align-items: center;
+        align-content: space-around;
+        row-gap: 2px;
+        column-gap: 2px;
+        border: 0px solid red;
+    }
+
+    .flex-3x3 {
+        border: 0px solid blue;
+        padding: 0px;
+        text-align: center;
+        max-width: calc(100% / 3 - 10px);
+    }
+
+    .flex-item {
+        border: 0px solid blue;
+        padding: 0px;
+        text-align: center;
+        max-width: calc(100% / 3 - 10px);
+    }
+    @media (max-width: 600px) { /*<500 = mode mobile */
+        .flex-item {
+            max-width: calc(100% / 2 - 10px);
+        }
+    }    
+    @media (min-width: 1000px) { /*>800 = mode large */
+        .flex-item {
+            max-width: calc(100% / 4 - 10px);
+        }
+        .flex-3x3 {
+            max-width: calc(100% / 5 - 10px);
+        }
+    }
+    .flex-bouton {
+        text-align: center;
+        text-decoration: none;
+        font-size: 16px;
+        font-weight: bold;
+        margin: 0px;
+        padding: 0px;
+        border: 2px solid #000;
+        border-radius: 5px;
+        cursor: pointer;
+        background-color: #FFFFFF;
+        display: table;
+    }
+    .flex-bouton img {
+        width: 100%;
+        max-height: 300px;
+    }
+    .flex-bouton span {
+        vertical-align:middle;
+        display: table-cell;
+    }
+
+    .flex-text {
+        /* Styles du texte par-dessus l'image */
+        position: absolute; /* Positionnement absolu par rapport au conteneur parent */
+        top: 50%; /* Décalage de 50% par rapport au haut du conteneur parent */
+        left: 50%; /* Décalage de 50% par rapport à la gauche du conteneur parent */
+        transform: translate(-50%, -50%); /* Centrage exact du texte */
+        background-color: rgba(255, 69, 0, 0.4); /* Fond semi-transparent pour le texte */
+        color: white;
+
+    }
+
+/* ============ SLIDER =============== */
+.slidecontainer {
+    width: 100%;
+  }
+
+.slider {
+    width: 100%;
+    height: 2em;
+    color: #FFF;
+    background: transparent;
+    background-image: linear-gradient(to bottom, #FFF, darkblue, #FFF);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 25%;
+  }
+  .slider::-webkit-slider-thumb {
+    width: 5px;
+    padding: 0.25em;                                              /* largeur du bord */
+    border: 10px solid darkblue;
+    border-radius: 50%;
+    box-shadow: 0 0 .5em #FFF inset;
+    background: linear-gradient(darkblue, #FFF) content-box,          /* le centre */
+                linear-gradient(-90deg, darkblue, #DDD) border-box;   /* le bord */
+  }
+  
+  .slider::-moz-range-thumb {
+    width: 5px;
+    padding: 0.25em;                                              /* largeur du bord */
+    border: 10px solid darkblue;
+    border-radius: 50%;
+    box-shadow: 0 0 .5em #FFF inset;
+    background: linear-gradient(darkblue, #FFF) content-box,          /* le centre */
+                linear-gradient(-90deg, darkblue, #DDD) border-box;   /* le bord */
+  }
+  .slider::-ms-thumb {
+    width: 5px;
+    padding: 0.25em;                                              /* largeur du bord */
+    border: 10px solid darkblue;
+    border-radius: 50%;
+    box-shadow: 0 0 .5em #FFF inset;
+    background: linear-gradient(darkblue, #FFF) content-box,          /* le centre */
+                linear-gradient(-90deg, darkblue, #DDD) border-box;   /* le bord */
+  }
+
+/* =============================== THEME */
+.divBtnTheme {
+        position: fixed;
+        bottom: 5px;
+        left: 5px;
+        padding: 0px 0px 0px 0px;
+        border-radius: 20px;
+        /*background-color: #007AFF;*/
+    }
+.divBtnTheme IMG {
+        vertical-align:middle;
+        display: table-cell;
+        cursor: pointer;
+    }
+
+.divThemeContainer {
+        display: none;
+        position: fixed;
+        top: 55px;
+        left: 2px;
+        width: 95%;
+        background-color: White;
+        border: 2px solid MidnightBlue;
+        padding: 0px 17px 0px 0px;
+        border-radius: 5px;
+    }
+.divThemeHeader {
+        width: 100%;
+        background-color: White;        
+        font-size: 18px;
+        padding: 5px 5px 5px 5px;
+    }
+.divThemeBody {
+        width: 100%;
+        max-height: 500px;
+        padding: 5px 5px 5px 5px;
+        overflow-y: scroll;
+        align-items: center;
+    }
+
+.fieldsetTheme {
+        padding: 5px;
+        border: 1px solid MidnightBlue;
+        border-radius: 5px;
+    }
+
+.legendTheme {
+        font-weight: bold;
+    }
+
+.divThemeBoxChoice {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: space-between;
+    width: 100%;    
+}
+.divThemeChoice {
+    margin: 3px;
+    padding: 2px 2px 2px 2px;
+    background-color: #E1E1EC;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 12px;
+    width: 80px;
+    height: 130px;
+    text-align: center;
+    border-radius: 5px;
+    }
+
+    .progress-container {
+        width: 100%;
+        background-color: #f1f1f1;
+    }
+    
+    .progress-bar {
+        height: 20px;
+        background-color: Lime;
+        width: 100%;
+    }
+
+/*========================================================*/
+
+.MaTable 
+    {
+        width: 100%;
+    }
+.MaTable td 
+    {
+        text-align: center; 
+        vertical-align: middle;
+        padding: 0px 5px 0px 5px;
+    }
+
+
+    .tuile-lettre {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        margin: 5px;
+        text-align: center;
+        line-height: 30px;
+        border: 1px solid #ccc;
+        background-color: white;
+        cursor: pointer;
+    }
+
+    .lettre-utilisee {
+        background-color: #eee;
+        cursor: not-allowed;
+    }
+
+
+
+
+/* ===========================  =========================== */
+/* Style de la div pour afficher l'image en grand */
+.divImageZoom {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.9);
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+/* Style de l'image à l'intérieur de la div */
+.divImageZoom img {
+    max-width: 100%;
+    max-height: 100%;
+}

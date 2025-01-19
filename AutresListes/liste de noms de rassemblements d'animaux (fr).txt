@@ -1,0 +1,17 @@
+banc : poissons, baleines, dauphins
+compagnie : perdrix, perdreaux, faisans
+essaim : abeilles
+couvée : oisillons, poussins
+meute : chiens
+harde : sangliers, cerfs, loups
+troupe : ânes, oies, chiens
+nuage : sauterelles, moustiques
+nichée : souris
+portée : chiots, chatons
+troupeau : éléphants, vaches
+colonie : fourmis, termites, pingouins
+cheptel : bovins, ovins
+volée : moineaux, mouettes
+vol : pigeons, étourneaux
+nuée : papillons, moustiques, mouches
+nid : guêpes, aigles

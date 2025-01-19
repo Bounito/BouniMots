@@ -1,0 +1,29 @@
+<STYLE>
+datalist {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  writing-mode: vertical-lr;
+  width: 100%;
+}
+
+option {
+  padding: 0;
+}
+
+input[type="range"] {
+  width: 100%;
+  margin: 0;
+}
+</STYLE>
+
+<label for="tempB">Choose a comfortable temperature:</label><br />
+<input type="range" id="tempB" name="temp" list="values" />
+
+<datalist id="values">
+  <option value="0" label="very cold!"></option>
+  <option value="25" label="cool"></option>
+  <option value="50" label="medium"></option>
+  <option value="75" label="getting warm!"></option>
+  <option value="100" label="hot!"></option>
+</datalist>
