@@ -1,5 +1,12 @@
 # BouniMots
- 
+
+Playable at :
+> https://svaret.freeboxos.fr/BouniMots/
+
+![Exemple](/assets/images/BouniMots.png)
+
+
+
 Set of games from various lists of words... and images on the web (provided by Bing)
 
 Exemple avec :
